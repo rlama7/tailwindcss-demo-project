@@ -1,2 +1,2 @@
 # tailwindcss-demo-project
-A deep dive into tail wind css 
+A deep dive into Tailwind CSS
