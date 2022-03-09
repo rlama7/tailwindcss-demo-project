@@ -1,4 +1,4 @@
-# tailwindcss-demo-project
+# Tailwindcss Demo Project
 
 A deep dive into Tailwind CSS
 
